@@ -31,3 +31,6 @@ My responsibilities in the project included:
 - Gameplay programming
 - Sound effects
 - Music composition with adaptive music system in FMOD
+
+![Bug Off!](projects/BugOff/images/bugoffztgkwin.jpg)
+this is our team, getting awards for the first place 
